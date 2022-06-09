@@ -1,0 +1,38 @@
+.btn-outline-light{
+    border-radius: 100px !important;
+
+    
+}
+.p1{
+    color: #ffffff;
+margin-top: 15% !important;
+    text-align: justify;
+    font-size:70px;
+    
+}
+.row{
+    padding: 50px 20px 50px;
+    
+}
+.col-sm{
+    margin: 50%;
+}
+h4{
+    color: white;
+    text-align: left;
+   position:relative;
+   top:90%;
+   font-size:1.0rem ;
+}
+ h3{
+    color: white;
+
+}
+h5{
+    color: white;
+    display: inline-block !important;
+  margin-left: 0;
+ 
+
+}
+    
